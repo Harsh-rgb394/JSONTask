@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.rjsf .form-group {
+    margin-bottom: 16px;
+}
+
+.rjsf .form-group label {
+    font-weight: bold;
+}
+
+.rjsf .form-group input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.rjsf .form-group .field-array {
+    margin-top: 16px;
+}
+
+.rjsf .form-group .field-array .array-item {
+    margin-bottom: 16px;
+}
